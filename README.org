@@ -1,3 +1,4 @@
+[[file:assets/remojify-logo.png][file:./assets/remojify-logo.png]]
 * remojify
 #+BEGIN_QUOTE
 An emoji says more than a thousand words
