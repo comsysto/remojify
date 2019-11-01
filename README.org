@@ -1,0 +1,19 @@
+* remojify
+#+BEGIN_QUOTE
+An emoji says more than a thousand words
+#+END_QUOTE
+** Install
+*** npm
+ #+BEGIN_SRC js
+ npm install remojify
+ #+END_SRC
+*** yarn
+ #+BEGIN_SRC js
+ yarn add remojify
+ #+END_SRC
+** Example usage
+#+BEGIN_SRC js
+const remojify = require('remojify')
+
+remojify('I have a nose. He was grinning.') // => I have a 👃 He was 😁
+#+END_SRC
