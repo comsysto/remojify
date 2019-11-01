@@ -1,15 +1,5 @@
 const Fuse = require('fuse.js')
-
-const emojis = [
-  {
-    text: 'nose',
-    emoji: '👃'
-  },
-  {
-    text: 'grinning face',
-    emoji: '😁'
-  }
-]
+const emojis = require('./emoji-list.json')
 
 const options = {
   shouldSort: true,
