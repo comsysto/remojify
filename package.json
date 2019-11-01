@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/comsysto/remojify/issues"
   },
-  "homepage": "https://github.com/comsysto/remojify#readme"
+  "homepage": "https://github.com/comsysto/remojify#readme",
+  "dependencies": {
+    "fuse.js": "^3.4.5"
+  }
 }
