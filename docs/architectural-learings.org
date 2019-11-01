@@ -1,0 +1,3 @@
+* Algorithms
+  Using levenshtein is not a smart idea
+    e.g. I -> 🐂 (ox) or have -> 🕳 (hole)
